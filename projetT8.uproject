@@ -11,5 +11,12 @@
 				"Editor"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"LinuxArm64",
+		"Linux",
+		"Mac",
+		"TVOS"
 	]
 }
